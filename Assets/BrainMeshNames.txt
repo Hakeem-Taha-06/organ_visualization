@@ -1,0 +1,388 @@
+---- Brain Mesh Names ----
+Anterior communicating artery_1_1_1
+Anterior communicating artery_1_1_1_1
+Anterior glandular branch of right superior thyroid artery_1_1_
+Anterior inferior cerebellar artery_1_1_1
+Anterior inferior cerebellar artery_1_1_1_1
+Anterior intercavernous sinus_1_1_1
+Anterior part of left superior temporal gyrus_1_1_1
+Anterior part of right superior temporal gyrus_1_1_1
+Anterior temporal branch of left lateral occipital artery_1_1_1
+Anterior temporal branch of right lateral occipital artery_1_1_
+Anterior vein of right septum pellucidum_1_1_1
+Anterolateral central branch of left middle cerebral artery_1_1
+Anterolateral central branch of left middle cerebral artery_2_1
+Anterolateral central branch of right middle cerebral artery
+Anterolateral central branch of right middle cerebral artery_
+Anterolateral central branch of right middle cerebral artery_1
+Anterolateral central branch of right middle cerebral artery_1_
+Anteromedial frontal branch of right callosomarginal artery_1_1
+Artery of central sulcus_1_1_1_1
+Artery of central sulcus_1_1_1_2
+Artery of central sulcus_1_1_1_3
+Artery of central sulcus_1_1_1_4
+Artery of central sulcus_1_1_1_5
+Artery of central sulcus_2_1_1_1
+Artery of central sulcus_3_1_1
+Artery of left postcentral sulcus_1_1_1
+Artery of left precentral sulcus_1_1_1_1
+Artery of left precentral sulcus_2_1_1_1
+Artery of left precentral sulcus_3_1_1
+Artery of right postcentral sulcus_1_1_1
+Artery of right postcentral sulcus_1_1_1_1
+Artery of right postcentral sulcus_1_1_1_2
+Artery of right precentral sulcus_1_1_1
+Artery of right precentral sulcus_1_1_1_1
+Artery of right precentral sulcus_1_1_1_2
+Artery of right precentral sulcus_1_1_1_3
+Artery of right precentral sulcus_1_1_1_4
+Artery of right precentral sulcus_1_1_1_5
+Artery of right pterygoid canal_1_1_1
+Branch of left anterior choroidal artery to posterior limb of l
+Branch of left middle cerebral artery to left angular gyrus_1_1
+Branch of right anterior choroidal artery to right lateral vent
+Branch of right anterior choroidal artery to right optic tract_
+Branch of right middle cerebral artery to right angular gyrus_
+Branch of right middle cerebral artery to right angular gyrus_1
+Cavernous branch of right internal carotid artery_1_1_1
+Chiasmatic branch of right posterior communicating artery_1_1_1
+Dental branch of right inferior alveolar artery_1_1_1
+Dental branch of right posterior superior alveolar artery_1_1_1
+Frontal branch of right middle meningeal artery_1_1_1
+Frontal branch of right superficial temporal artery_1_1_1
+Hypothalamic branch of left posterior communicating artery_1_1_
+Hypothalamic branch of right posterior communicating artery_1_
+Hypothalamic branch of right posterior communicating artery_1_1
+Inferior cerebral vein_1_1_1
+Inferior cerebral vein_1_1_1_1
+Inferior sagittal sinus_1_1_1
+Insular part of left middle cerebral artery_1_1_1_1
+Insular part of left middle cerebral artery_2_1_1
+Insular part of right middle cerebral artery_1_1_1
+Insular part of right middle cerebral artery_1_1_1_1
+Insular part of right middle cerebral artery_1_1_1_2
+Insular part of right middle cerebral artery_1_1_1_3
+Intermediomedial branch of left callosomarginal artery_1_1_1
+Intermediomedial branch of right callosomarginal artery_1_1_1
+Intermediomedial branch of right callosomarginal artery_1_1_1_1
+Lateral branch of left pontine artery_1_1_1
+Lateral branch of left superior cerebellar artery_1_1_1
+Lateral branch of right pontine artery_1_1_1
+Lateral branch of right pontine artery_1_1_1_1
+Lateral branch of right superior cerebellar artery_1_1_1
+Lateral branch of right superior cerebellar artery_1_1_1_1
+Lateral glandular branch of right superior thyroid artery_1_1_1
+Lateral vein of right lateral ventricle_1_1_1
+Left angular gyrus_1_1_1
+Left anterior cerebral artery_1_1_1
+Left anterior choroidal artery_1_1_1
+Left anterior orbital gyrus_1_1_1
+Left anterior parietal artery_1_1_1
+Left anterior temporal artery_1_1_1
+Left callosomarginal artery_1_1_1
+Left cingulate gyrus_1_1_1
+Left cuneus_1_1_1
+Left fusiform gyrus_1_1_1
+Left hippocampus proper_1_1_1
+Left inferior colliculus_1_1_1
+Left inferior frontal gyrus_1_1_1
+Left inferior temporal gyrus_1_1_1
+Left inferior temporal gyrus_1_1_1_1
+Left insula_1_1_1
+Left lateral frontobasal artery_1_1_1_1
+Left lateral frontobasal artery_2_1_1
+Left lateral occipital gyrus_1_1_1
+Left lateral orbital gyrus_1_1_1
+Left lingual gyrus_1_1_1
+Left lingual gyrus_1_1_1_1
+Left medial frontobasal artery_1_1_1
+Left medial orbital gyrus_1_1_1
+Left middle frontal gyrus_1_1_1
+Left middle temporal gyrus_1_1_1
+Left ophthalmic artery_1_1_1
+Left parahippocampal gyrus_1_1_1
+Left pericallosal artery_1_1_1
+Left polar temporal artery_1_1_1
+Left postcentral gyrus_1_1_1
+Left posterior communicating artery_1_1_1
+Left posterior medial choroidal artery_1_1_1
+Left posterior orbital gyrus_1_1_1
+Left posterior parietal artery_1_1_1
+Left precentral gyrus_1_1_1
+Left precuneus_1_1_1
+Left prefrontal artery_1_1_1
+Left splenial artery_1_1_1_1
+Left splenial artery_2_1_1
+Left straight gyrus_1_1_1
+Left superior cerebellar artery_1_1_1
+Left superior colliculus_1_1_1
+Left superior frontal gyrus_1_1_1
+Left superior occipital gyrus_1_1_1
+Left superior parietal lobule_1_1_1
+Left superior parietal lobule_1_1_1_1
+Left superior temporal gyrus_1_1_1
+Left supramarginal gyrus_1_1_1
+Left thalamogeniculate artery_1_1_1
+Left thalamoperforating artery_1_1_1
+Medial branch of left pontine artery_1_1_1
+Medial branch of left superior cerebellar artery_1_1_1
+Medial branch of right pontine artery_1_1_1
+Medial branch of right pontine artery_1_1_1_1
+Medial branch of right superior cerebellar artery_1_1_1
+Medial vein of right lateral ventricle_1_1_1
+Median callosal artery_1_1_1
+Median commissural artery_1_1_1
+Medulla oblongata_1_1_1
+Medulla oblongata_1_1_1_1
+Middle temporal branch of left lateral occipital artery_1_1_1
+Middle temporal branch of left middle cerebral artery_1_1_1
+Middle temporal branch of right lateral occipital artery_1_1_1
+Middle temporal branch of right middle cerebral artery_1_1_1
+Nasal septal branch of right superior labial artery_1_1_1
+Occipital sinus_1_1_1
+Occipitotemporal branch of right medial occipital artery_1_1_1
+Occipitotemporal branch of right medial occipital artery_1_1_1_
+Orbital branch of right middle meningeal artery_1_1_1
+Paracentral branch of left callosomarginal artery_1_1_1_1
+Paracentral branch of left callosomarginal artery_2_1_1_1
+Paracentral branch of left callosomarginal artery_3_1_1
+Paracentral branch of right callosomarginal artery_1_1_1
+Paracentral branch of right callosomarginal artery_1_1_1_1
+Paracentral branch of right callosomarginal artery_1_1_1_2
+Parietal branch of right medial occipital artery_1_1_1
+Parietal branch of right middle meningeal artery_1_1_1
+Parietal branch of right superficial temporal artery_1_1_1
+Peridental branch of right posterior superior alveolar artery_1
+Portal vein of hypophysis_1_1_1
+Portal vein of hypophysis_1_1_1_1
+Postcommunicating part of left posterior cerebral artery_1_1_1
+Postcommunicating part of right posterior cerebral artery_1_1
+Postcommunicating part of right posterior cerebral artery_1_1_
+Postcommunicating part of right posterior cerebral artery_1_1_1
+Posterior glandular branch of right superior thyroid artery_1_1
+Posterior intercavernous sinus_1_1_1
+Posterior part of left superior temporal gyrus_1_1_1
+Posterior part of right superior temporal gyrus_1_1_1
+Posterior temporal branch of left middle cerebral artery_1_1_1
+Posterior temporal branch of right middle cerebral artery_1_1_1
+Posterior vein of right septum pellucidum_1_1_1
+Posteromedial branch of left callosomarginal artery_1_1_1
+Posteromedial branch of right callosomarginal artery_1_1_1
+Precommunicating part of left posterior cerebral artery_1_1_1
+Precommunicating part of right posterior cerebral artery_1_1_1
+Precommunicating part of right posterior cerebral artery_1_1_1_
+Precuneal branch of left pericallosal artery_1_1_1
+Precuneal branch of right pericallosal artery_1_1_1
+Precuneal branch of right pericallosal artery_1_1_1_1
+Right angular artery_1_1_1
+Right angular gyrus_1_1_1
+Right angular vein_1_1_1
+Right anterior cerebral artery_1_1_1
+Right anterior cerebral artery_1_1_1_1
+Right anterior cerebral vein_1_1_1
+Right anterior cerebral vein_1_1_1_1
+Right anterior cerebral vein_1_1_1_2
+Right anterior cerebral vein_1_1_1_3
+Right anterior cerebral vein_1_1_1_4
+Right anterior cerebral vein_1_1_1_5
+Right anterior orbital gyrus_1_1_1
+Right anterior parietal artery_1_1_1
+Right anterior tympanic artery_1_1_1
+Right ascending pharyngeal artery_1_1_1
+Right basal vein_1_1_1
+Right calcarine artery_1_1_1
+Right callosomarginal artery_1_1_1
+Right cavernous sinus_1_1_1
+Right cavernous sinus_1_1_1_1
+Right cavernous sinus_1_1_1_2
+Right cavernous sinus_1_1_1_3
+Right cavernous sinus_1_1_1_4
+Right cavernous sinus_1_1_1_5
+Right cavernous sinus_1_1_1_6
+Right central retinal artery_1_1_1
+Right central retinal vein_1_1_1
+Right cingulate gyrus_1_1_1
+Right collicular artery_1_1_1
+Right cricothyroid artery_1_1_1
+Right cuneus_1_1_1
+Right deep auricular artery_1_1_1
+Right deep lingual vein_1_1_1
+Right deep middle cerebral vein_1_1_1
+Right distal medial striate artery_1_1_1
+Right dorsal nasal artery_1_1_1
+Right external nasal vein_1_1_1
+Right facial vein_1_1_1
+Right fusiform gyrus_1_1_1
+Right great cerebral vein_1_1_1
+Right hippocampus proper_1_1_1
+Right inferior alveolar artery_1_1_1
+Right inferior anastomotic vein_1_1_1
+Right inferior anastomotic vein_1_1_1_1
+Right inferior choroid vein_1_1_1
+Right inferior colliculus_1_1_1
+Right inferior frontal gyrus_1_1_1
+Right inferior labial artery_1_1_1
+Right inferior labial vein_1_1_1
+Right inferior palpebral arch_1_1_1
+Right inferior petrosal sinus_1_1_1
+Right inferior temporal gyrus_1_1_1
+Right inferior temporal gyrus_1_1_2
+Right inferior tympanic artery_1_1_1
+Right infrahyoid artery_1_1_1
+Right insula_1_1_1
+Right internal cerebral vein_1_1_1
+Right lacrimal artery_1_1_1
+Right lacrimal vein_1_1_1
+Right lateral frontobasal artery_1_1_1
+Right lateral frontobasal artery_1_1_1_1
+Right lateral frontobasal artery_1_1_1_2
+Right lateral nasal artery_1_1_1
+Right lateral occipital gyrus_1_1_1
+Right lateral orbital gyrus_1_1_1
+Right lateral palpebral artery_1_1_1
+Right lesser palatine artery_1_1_1
+Right lingual gyrus_1_1_1_1
+Right lingual gyrus_2_1_1
+Right lingual vein_1_1_1
+Right long posterior ciliary artery_1_1_1
+Right mammillary artery_1_1_1
+Right marginal sinus_1_1_1
+Right mastoid emissary vein_1_1_1
+Right mastoid emissary vein_1_1_1_1
+Right medial frontobasal artery_1_1_1
+Right medial frontobasal artery_1_1_1_1
+Right medial orbital gyrus_1_1_1
+Right medial palpebral artery_1_1_1
+Right mental artery_1_1_1
+Right middle frontal gyrus_1_1_1
+Right middle temporal gyrus_1_1_1
+Right middle temporal vein_1_1_1
+Right middle thyroid vein_1_1_1
+Right mylohyoid artery_1_1_1
+Right nasofrontal vein_1_1_1
+Right ophthalmic artery_1_1_1
+Right parahippocampal gyrus_1_1_1
+Right parietal emissary vein_1_1_1
+Right pericallosal artery_1_1_1
+Right pharyngeal vein_1_1_1
+Right postcentral gyrus_1_1_1
+Right posterior auricular artery_1_1_1
+Right posterior communicating artery_1_1_1
+Right posterior communicating artery_1_1_1_1
+Right posterior medial choroidal artery_1_1_1
+Right posterior meningeal artery_1_1_1
+Right posterior orbital gyrus_1_1_1
+Right posterior parietal artery_1_1_1
+Right posterior parietal artery_1_1_1_1
+Right posterior superior alveolar artery_1_1_1
+Right precentral gyrus_1_1_1
+Right precuneus_1_1_1
+Right prefrontal artery_1_1_1
+Right prefrontal artery_1_1_1_1
+Right proximal medial striate artery_1_1_1
+Right retromandibular vein_1_1_1
+Right sigmoid sinus_1_1_1
+Right splenial artery_1_1_1
+Right splenial artery_1_1_1_1
+Right splenial artery_1_1_1_2
+Right sternocleidomastoid vein_1_1_1
+Right straight gyrus_1_1_1
+Right stylomastoid artery_1_1_1
+Right sublingual artery_1_1_1
+Right sublingual vein_1_1_1
+Right submental artery_1_1_1
+Right submental vein_1_1_1
+Right superficial temporal vein_1_1_1
+Right superior anastomotic vein_1_1_1
+Right superior anastomotic vein_1_1_1_1
+Right superior cerebellar artery_1_1_1
+Right superior choroid vein_1_1_1
+Right superior colliculus_1_1_1
+Right superior frontal gyrus_1_1_1
+Right superior hypophyseal artery_1_1_1
+Right superior labial artery_1_1_1
+Right superior labial vein_1_1_1
+Right superior laryngeal artery_1_1_1
+Right superior laryngeal vein_1_1_1
+Right superior occipital gyrus_1_1_1
+Right superior palpebral arch_1_1_1
+Right superior palpebral vein_1_1_1
+Right superior parietal lobule_1_1_1
+Right superior parietal lobule_1_1_2
+Right superior petrosal sinus_1_1_1
+Right superior temporal gyrus_1_1_1
+Right superior thalamostriate vein_1_1_1
+Right superior thyroid vein_1_1_1
+Right supra-orbital artery_1_1_1
+Right supra-orbital vein_1_1_1
+Right supramarginal gyrus_1_1_1
+Right supratrochlear artery_1_1_1
+Right supratrochlear vein_1_1_1
+Right thalamogeniculate artery_1_1_1
+Right thalamogeniculate artery_1_1_1_1
+Right thalamoperforating artery_1_1_1
+Right thalamoperforating artery_1_1_1_1
+Right thalamotuberal artery_1_1_1
+Right transverse sinus_1_1_1
+Set of lateral direct veins of lateral ventricle_1_1_1
+Sphenoid part of left middle cerebral artery_1_1_1
+Sphenoid part of right middle cerebral artery_1_1_1
+Sphenoid part of right middle cerebral artery_1_1_1_1
+Sphenoid part of right middle cerebral artery_1_1_1_2
+Sphenoid part of right middle cerebral artery_1_1_1_3
+Sphenoid part of right middle cerebral artery_1_1_1_4
+Straight sinus_1_1_1
+Superior cerebral vein_1_1_1
+Superior cerebral vein_1_1_1_1
+Superior cerebral vein_1_1_1_2
+Superior sagittal sinus_1_1_1
+Superior vermian branch of medial branch of left superior cereb
+Superior vermian branch of medial branch of right superior cere
+Temporo-occipital branch of left middle cerebral artery_1_1_1
+Temporo-occipital branch of right middle cerebral artery_1_1_1
+Temporo-occipital branch of right middle cerebral artery_1_1_1_
+Third part of right lingual artery_1_1_1
+Trunk of artery of left precentral sulcus_1_1_1
+Trunk of clivus branch of right internal carotid artery_1_1_1
+Trunk of inferior terminal branch of left middle cerebral arter
+Trunk of inferior terminal branch of right middle cerebral arte
+Trunk of left medial occipital artery_1_1_1
+Trunk of meningeal branch of cavernous part of right internal c
+Trunk of middle temporal branch of left middle cerebral artery_
+Trunk of posterior septal branch of right sphenopalatine artery
+Trunk of recurrent meningeal branch of right lacrimal artery_1_
+Trunk of right anterior cerebral artery_1_1_1
+Trunk of right anterior choroidal artery_1_1_1
+Trunk of right anterior deep temporal artery_1_1_1
+Trunk of right buccal artery_1_1_1
+Trunk of right callosomarginal artery_1_1_1
+Trunk of right descending palatine artery_1_1_1
+Trunk of right facial artery_1_1_1
+Trunk of right greater palatine artery_1_1_1
+Trunk of right inferior hypophyseal artery_1_1_1
+Trunk of right infra-orbital artery_1_1_1
+Trunk of right lateral frontobasal artery_1_1_1
+Trunk of right lingual artery_1_1_1
+Trunk of right masseteric artery_1_1_1
+Trunk of right maxillary artery_1_1_1
+Trunk of right medial occipital artery_1_1_1
+Trunk of right middle cerebral artery_1_1_1
+Trunk of right middle meningeal artery_1_1_1
+Trunk of right middle temporal artery_1_1_1
+Trunk of right occipital artery_1_1_1
+Trunk of right ophthalmic artery_1_1_1
+Trunk of right polar frontal artery_1_1_1
+Trunk of right polar temporal artery_1_1_1
+Trunk of right posterior deep temporal artery_1_1_1
+Trunk of right posterior lateral nasal artery_1_1_1
+Trunk of right pterygomeningeal artery_1_1_1
+Trunk of right sphenopalatine artery_1_1_1
+Trunk of right superficial temporal artery_1_1_1
+Trunk of right superior thyroid artery_1_1_1
+Trunk of right superior tympanic artery_1_1_1
+Trunk of right uncal artery_1_1_1
+Trunk of rightpericallosal artery_1_1_1
+Trunk of tentorial basal branch of right internal carotid arter
+Trunk of tentorial marginal branch of right internal carotid ar
+Vein of right caudate nucleus_1_1_1
+Total meshes: 386

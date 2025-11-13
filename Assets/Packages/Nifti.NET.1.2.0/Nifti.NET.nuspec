@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Nifti.NET</id>
+    <version>1.2.0</version>
+    <authors>Patrick Prendergast</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/plwp/Nifti.NET</projectUrl>
+    <description>A comprehensive .NET library for reading, writing, and manipulating NIfTI files with full NIfTI-1 specification compliance and validation.</description>
+    <releaseNotes>Major update: Added CreateFromData factory methods for programmatic NIfTI creation, comprehensive NIfTI-1 specification conformance testing with 75+ validation tests, advanced header validation, NiftiValidator utility class, and command-line conformance checker tool. Enhanced error handling and robustness.</releaseNotes>
+    <tags>nifti neuroimaging medical-imaging brain-imaging mri fmri nifti-1 validation</tags>
+    <repository type="Git" url="https://github.com/plwp/Nifti.NET" commit="d139e0454cfe4e767029bad0eef4ac3c0dd58b45" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
